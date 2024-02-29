@@ -173,10 +173,24 @@ padding-top: 16px;
     padding-left: 96px;
 }
 .pading{
-    display: flex;
-    flex-direction: row;
+position: relative;
+top: 0;
+left: 300px;
 }
-
+.mektub{
+    position: relative;
+    left: 1200px;
+}
+.bilmirem{
+    position: relative;
+    bottom: 0;
+    left: 500px;
+}
+.bilirem{
+    position: relative;
+    top: 76px;
+    left: 100px;
+}
 
 
 
