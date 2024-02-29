@@ -1,0 +1,184 @@
+body{
+    background-color:#222831 ;
+}
+.menu-items{
+    color: #EEEEEE;
+}
+.Contact{
+display: flex;
+flex-direction: row;
+gap: 48px;
+position: absolute;
+left: 1400px;
+top: 0;
+padding: 48px 96px;
+}
+.hero{
+    padding: 180px 334px;
+}
+.title{
+    font-size: 96px;
+color: #EEEEEE;
+display: inline;
+}
+.title2{
+    font-size: 96px;
+    color: #00ADB5;
+ display: inline;
+}
+.button{
+    background-color: #00ADB5;
+    border-radius: 24px;
+    color: #EEEEEE;
+    width: 200px;
+height: 47px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.button2{
+    color: #EEEEEE;
+    border-radius: 24px;
+    background-color: #393E46;
+    width: 300px;
+height: 47px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.flex{
+  padding: 0 325px;
+}
+.Vector{
+    
+    position: absolute;
+    width: 89.96px;
+    height: 350px;
+    left: 160.46px;
+    top: 385px;
+}
+.Group2377 { 
+    position: absolute;
+    width: 638px;
+    height: 656px;
+    left: 1000px;
+    top: 206px;
+}
+
+.download{
+    width: 24px;
+    height: 24px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.Frame7{
+
+    position: absolute;
+    width: 96px;
+    height: 96px;
+    left: 464px;
+    top: 864px;   
+    background: rgba(57, 62, 70, 0.75);
+    backdrop-filter: blur(4px);
+}
+.div34{
+    position: relative;
+  bottom: 0;
+  top: 400px;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    gap: 179px;
+    height: 100vh;
+}
+.p{
+    font-size: 64px;
+    font-weight: bold;
+    color: #fff;
+}
+.span{
+    color: #00ADB5;
+}
+.desc{
+    width: 389px;
+    color: #fff;
+}
+.Vector141 { 
+    position: absolute;
+    width: 61.54px;
+    height: 46.57px;
+    left: 150px;
+    top: -100px;
+}
+.light{
+    
+    
+    position: absolute;
+    left: 467.23px;
+    top: -20px;
+}
+.arrow{
+    position: relative    ;
+    left: 150px;
+    top: 100px;
+}
+.bg{
+    background-image: url(./doodle\ items.png);
+    background-repeat:repeat;
+    position: relative;
+    top: 400px;
+    width: 1440;
+height: 1024px;
+padding-left: 250px;
+}
+.p2{
+    font-size: 64px;
+    color: #fff;
+}
+.span2{
+    font-size: 64px;
+    color: #00ADB5;
+}
+.myrecent{
+    padding: 268px 120px;
+}
+.button3{
+width: 482px;
+height: 47px;
+flex: none;
+order: 1;
+flex-grow: 0;
+padding-top: 16px;
+}
+.iphone{
+    padding-top: 48px;
+}
+.keyboard{
+    padding: 100px  700px;
+}
+.got{
+    font-size: 64px;
+    font-weight: bold;
+    color: #fff;
+}
+.color{
+    color: #00ADB5;
+    font-size: 64px;
+    font-weight: bold;
+}
+.big{
+    padding-left: 96px;
+}
+.pading{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
